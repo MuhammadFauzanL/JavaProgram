@@ -1,1 +1,1 @@
-<h1 align="" >  Program - Program java sederhana </h1> 
+<h1 align="Center " >  Program - Program Java Sederhana </h1> 
